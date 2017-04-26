@@ -1,0 +1,6 @@
+var editingBlock = {
+    addButton : function () {
+
+    },
+
+};
